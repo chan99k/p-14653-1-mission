@@ -12,3 +12,4 @@
 - 0009 완료 | ClusterIP Service
 - 0010 완료 | Node Port Service
 - 0011 완료 | Load Balancer Service
+- 0012 완료 | ConfigMap 사용하기

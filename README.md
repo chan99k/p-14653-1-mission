@@ -15,3 +15,4 @@
 - 0012 완료 | ConfigMap 사용하기
 - 0013 완료 | Secret 사용하기
 - 0014 완료 | PersistentVolume과 PersistentVolumeClaim
+- 0015 완료 | 전체 애플리케이션 배포 예제

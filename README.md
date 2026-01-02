@@ -10,3 +10,4 @@
 - 0007 완료 | 스케일링 (Scaling)
 - 0008 완료 | 롤링 업데이트 (Rolling Update)
 - 0009 완료 | ClusterIP Service
+- 0010 완료 | Node Port Service

@@ -13,3 +13,4 @@
 - 0010 완료 | Node Port Service
 - 0011 완료 | Load Balancer Service
 - 0012 완료 | ConfigMap 사용하기
+- 0013 완료 | Secret 사용하기 

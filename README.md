@@ -11,3 +11,4 @@
 - 0008 완료 | 롤링 업데이트 (Rolling Update)
 - 0009 완료 | ClusterIP Service
 - 0010 완료 | Node Port Service
+- 0011 완료 | Load Balancer Service

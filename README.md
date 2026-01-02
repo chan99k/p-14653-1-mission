@@ -9,3 +9,4 @@
 - 0006 완료 | Deployment 생성하기
 - 0007 완료 | 스케일링 (Scaling)
 - 0008 완료 | 롤링 업데이트 (Rolling Update)
+- 0009 완료 | ClusterIP Service
